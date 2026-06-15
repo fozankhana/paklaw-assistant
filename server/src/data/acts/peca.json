@@ -1,0 +1,70 @@
+{
+  "document": "Prevention of Electronic Crimes Act 2016",
+  "slug": "peca-2016",
+  "type": "act",
+  "year": 2016,
+  "citation": "Act XL of 2016",
+  "description": "Pakistan's cybercrime law, providing for the prevention of unauthorised acts with respect to information systems and offences relating to electronic data. This is a curated selection of frequently-cited sections.",
+  "entries": [
+    {
+      "ref": "Section 3",
+      "title": "Unauthorized access to information system or data",
+      "chapter": "Chapter II — Offences and Punishments",
+      "text": "Whoever with dishonest intention gains unauthorized access to any information system or data shall be punished with imprisonment for a term which may extend to three months, or with fine which may extend to fifty thousand rupees, or with both."
+    },
+    {
+      "ref": "Section 4",
+      "title": "Unauthorized copying or transmission of data",
+      "chapter": "Chapter II — Offences and Punishments",
+      "text": "Whoever with dishonest intention and without authorization copies or otherwise transmits or causes to be transmitted any data shall be punished with imprisonment for a term which may extend to six months, or with fine which may extend to one hundred thousand rupees, or with both."
+    },
+    {
+      "ref": "Section 6",
+      "title": "Unauthorized access to critical infrastructure information system or data",
+      "chapter": "Chapter II — Offences and Punishments",
+      "text": "Whoever with dishonest intention gains unauthorized access to any critical infrastructure information system or data shall be punished with imprisonment which may extend to three years, or with fine which may extend to one million rupees, or with both."
+    },
+    {
+      "ref": "Section 10",
+      "title": "Cyber terrorism",
+      "chapter": "Chapter II — Offences and Punishments",
+      "text": "Whoever commits or threatens to commit any of the offences relating to critical infrastructure, where the commission or threat is with the intent to coerce, intimidate, create a sense of fear, panic or insecurity in the Government or the public, or to advance inter-faith, sectarian or ethnic hatred, or to advance the objectives of organizations or individuals or groups proscribed under the law, commits the offence of cyber terrorism and shall be punished with imprisonment which may extend to fourteen years, or with fine which may extend to fifty million rupees, or with both."
+    },
+    {
+      "ref": "Section 13",
+      "title": "Electronic forgery",
+      "chapter": "Chapter II — Offences and Punishments",
+      "text": "Whoever interferes with or uses any information system, device or data, with the intent to cause damage or injury to the public or to any person, or to make any illegal claim or title, or to cause any person to part with property or to enter into any express or implied contract, or with intent to commit fraud, by any input, alteration, deletion or suppression of data, resulting in unauthentic data with the intent that it be considered or acted upon as authentic, commits the offence of electronic forgery."
+    },
+    {
+      "ref": "Section 14",
+      "title": "Electronic fraud",
+      "chapter": "Chapter II — Offences and Punishments",
+      "text": "Whoever with the intent for wrongful gain interferes with or uses any information system, device or data or induces any person to enter into a relationship or deceives any person, which act or omission is likely to cause damage or harm to that person or any other person, shall be punished with imprisonment which may extend to two years, or with fine which may extend to ten million rupees, or with both."
+    },
+    {
+      "ref": "Section 20",
+      "title": "Offences against dignity of a natural person",
+      "chapter": "Chapter II — Offences and Punishments",
+      "text": "Whoever intentionally and publicly exhibits or displays or transmits any information through any information system, which he knows to be false, and intimidates or harms the reputation or privacy of a natural person, shall be punished with imprisonment which may extend to three years, or with fine which may extend to one million rupees, or with both. The court may order an apology to be published and the offending material to be removed or blocked."
+    },
+    {
+      "ref": "Section 21",
+      "title": "Offences against modesty of a natural person and minor",
+      "chapter": "Chapter II — Offences and Punishments",
+      "text": "Whoever intentionally and publicly exhibits, displays or transmits any information which superimposes a photograph of the face of a natural person over any sexually explicit image, or includes a photograph or video of a natural person in sexually explicit conduct, or cultivates, entices or induces a natural person to engage in sexually explicit conduct, or distributes such material, commits an offence punishable, in the case of an adult victim, with imprisonment which may extend to five years and fine, and, where the victim is a minor, with greater punishment specified in the Act."
+    },
+    {
+      "ref": "Section 24",
+      "title": "Cyber stalking",
+      "chapter": "Chapter II — Offences and Punishments",
+      "text": "A person commits the offence of cyber stalking who, with the intent to coerce or intimidate or harass any person, uses an information system, network, the internet, e-mail or any other similar means to follow, contact or attempt to contact a person despite a clear indication of disinterest, monitor a person's use of the internet, watch or spy upon a person, or take or distribute pictures or photographs of a person without consent in a manner that harms that person. Cyber stalking is punishable with imprisonment which may extend to three years, or with fine which may extend to one million rupees, or with both; punishment is enhanced where the victim is a minor."
+    },
+    {
+      "ref": "Section 25",
+      "title": "Spamming",
+      "chapter": "Chapter II — Offences and Punishments",
+      "text": "A person commits the offence of spamming who transmits harmful, fraudulent, misleading, illegal or unsolicited information to any person without permission of the recipient, or causes any information system to show such information. A person who commits spamming shall, for the first time, be liable to a warning, and on a subsequent contravention be punished with fine."
+    }
+  ]
+}

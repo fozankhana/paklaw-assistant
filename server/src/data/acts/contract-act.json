@@ -1,0 +1,70 @@
+{
+  "document": "Contract Act 1872",
+  "slug": "contract-act-1872",
+  "type": "act",
+  "year": 1872,
+  "citation": "Act IX of 1872",
+  "description": "The general law of contracts in Pakistan — formation, validity, performance and remedies for breach. This is a curated selection of frequently-cited sections.",
+  "entries": [
+    {
+      "ref": "Section 2",
+      "title": "Interpretation clause",
+      "chapter": "Chapter I — Of the Communication, Acceptance and Revocation of Proposals",
+      "text": "This section defines the building blocks of contract law: a 'proposal' is made when one person signifies to another his willingness to do or abstain from doing anything with a view to obtaining the assent of that other; a proposal when accepted becomes a 'promise'; the person making the proposal is the 'promisor' and the person accepting it the 'promisee'; every promise and set of promises forming the consideration for each other is an 'agreement'; an agreement enforceable by law is a 'contract'; and an agreement not enforceable by law is said to be 'void'."
+    },
+    {
+      "ref": "Section 10",
+      "title": "What agreements are contracts",
+      "chapter": "Chapter II — Of Contracts, Voidable Contracts and Void Agreements",
+      "text": "All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not hereby expressly declared to be void. Nothing herein shall affect any law in force by which any contract is required to be made in writing or in the presence of witnesses, or any law relating to the registration of documents."
+    },
+    {
+      "ref": "Section 11",
+      "title": "Who are competent to contract",
+      "chapter": "Chapter II — Of Contracts, Voidable Contracts and Void Agreements",
+      "text": "Every person is competent to contract who is of the age of majority according to the law to which he is subject, who is of sound mind, and is not disqualified from contracting by any law to which he is subject. An agreement by a minor is void ab initio."
+    },
+    {
+      "ref": "Section 13",
+      "title": "'Consent' defined",
+      "chapter": "Chapter II — Of Contracts, Voidable Contracts and Void Agreements",
+      "text": "Two or more persons are said to consent when they agree upon the same thing in the same sense. This meeting of minds is referred to as consensus ad idem."
+    },
+    {
+      "ref": "Section 14",
+      "title": "'Free consent' defined",
+      "chapter": "Chapter II — Of Contracts, Voidable Contracts and Void Agreements",
+      "text": "Consent is said to be free when it is not caused by coercion, undue influence, fraud, misrepresentation or mistake. Consent is said to be so caused when it would not have been given but for the existence of such coercion, undue influence, fraud, misrepresentation or mistake."
+    },
+    {
+      "ref": "Section 23",
+      "title": "What considerations and objects are lawful, and what not",
+      "chapter": "Chapter II — Of Contracts, Voidable Contracts and Void Agreements",
+      "text": "The consideration or object of an agreement is lawful unless it is forbidden by law; or is of such a nature that, if permitted, it would defeat the provisions of any law; or is fraudulent; or involves or implies injury to the person or property of another; or the court regards it as immoral or opposed to public policy. In each of these cases the consideration or object of an agreement is unlawful, and every agreement of which the object or consideration is unlawful is void."
+    },
+    {
+      "ref": "Section 25",
+      "title": "Agreement without consideration is void",
+      "chapter": "Chapter II — Of Contracts, Voidable Contracts and Void Agreements",
+      "text": "An agreement made without consideration is void, unless it is expressed in writing and registered and is made on account of natural love and affection between parties standing in a near relation to each other; or is a promise to compensate a person who has already voluntarily done something for the promisor; or is a promise to pay a time-barred debt."
+    },
+    {
+      "ref": "Section 56",
+      "title": "Agreement to do impossible act (doctrine of frustration)",
+      "chapter": "Chapter IV — Of the Performance of Contracts",
+      "text": "An agreement to do an act impossible in itself is void. A contract to do an act which, after the contract is made, becomes impossible, or by reason of some event which the promisor could not prevent becomes unlawful, becomes void when the act becomes impossible or unlawful. This is the basis of the doctrine of frustration of contract."
+    },
+    {
+      "ref": "Section 73",
+      "title": "Compensation for loss or damage caused by breach of contract",
+      "chapter": "Chapter VI — Of the Consequences of Breach of Contract",
+      "text": "When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it. Such compensation is not to be given for any remote and indirect loss or damage sustained by reason of the breach."
+    },
+    {
+      "ref": "Section 124",
+      "title": "'Contract of indemnity' defined",
+      "chapter": "Chapter VIII — Of Indemnity and Guarantee",
+      "text": "A contract by which one party promises to save the other from loss caused to him by the conduct of the promisor himself, or by the conduct of any other person, is called a contract of indemnity."
+    }
+  ]
+}

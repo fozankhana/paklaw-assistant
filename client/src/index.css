@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-gray-50 text-gray-900 antialiased;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply max-w-6xl mx-auto px-4 sm:px-6;
+  }
+
+  /* Rendered markdown answers in the chat panel. */
+  .prose-answer {
+    @apply text-[15px] leading-relaxed text-gray-800;
+  }
+  .prose-answer p {
+    @apply mb-3;
+  }
+  .prose-answer ul {
+    @apply list-disc pl-5 mb-3 space-y-1;
+  }
+  .prose-answer ol {
+    @apply list-decimal pl-5 mb-3 space-y-1;
+  }
+  .prose-answer strong {
+    @apply font-semibold text-gray-900;
+  }
+  .prose-answer blockquote {
+    @apply border-l-4 border-primary-200 pl-3 italic text-gray-600 my-3;
+  }
+  .prose-answer code {
+    @apply bg-gray-100 px-1 py-0.5 rounded text-sm;
+  }
+  .prose-answer em {
+    @apply text-gray-500 not-italic text-sm;
+  }
+  .prose-answer a {
+    @apply text-primary-700 underline;
+  }
+}
+
+/* Subtle scrollbar for the chat thread. */
+.thin-scroll::-webkit-scrollbar {
+  width: 8px;
+}
+.thin-scroll::-webkit-scrollbar-thumb {
+  @apply bg-gray-300 rounded-full;
+}
+.thin-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}

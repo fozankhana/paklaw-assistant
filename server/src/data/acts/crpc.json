@@ -1,0 +1,76 @@
+{
+  "document": "Code of Criminal Procedure 1898",
+  "slug": "crpc-1898",
+  "type": "act",
+  "year": 1898,
+  "citation": "Act V of 1898",
+  "description": "The procedural law governing the administration of criminal justice in Pakistan — arrest, investigation, bail and trial. This is a curated selection of frequently-cited sections.",
+  "entries": [
+    {
+      "ref": "Section 54",
+      "title": "Arrest by police officer without warrant",
+      "chapter": "Chapter V — Arrest, Escape and Retaking",
+      "text": "Any police officer may, without an order from a magistrate and without a warrant, arrest any person who has been concerned in any cognizable offence or against whom a reasonable complaint has been made or credible information has been received or a reasonable suspicion exists of his having been so concerned; any person found in possession of any implement of house-breaking without lawful excuse; any person proclaimed as an offender; and any person in whose possession anything reasonably suspected to be stolen property is found."
+    },
+    {
+      "ref": "Section 100",
+      "title": "Persons in charge of closed place to allow search",
+      "chapter": "Chapter VII — Processes to Compel the Production of Documents",
+      "text": "Whenever any place liable to search is closed, any person residing in or being in charge of such place shall, on demand of the officer or other person executing the search warrant and on production of the warrant, allow him free ingress thereto and afford all reasonable facilities for a search therein. The search shall, where practicable, be made in the presence of two or more respectable inhabitants of the locality."
+    },
+    {
+      "ref": "Section 154",
+      "title": "Information in cognizable cases (First Information Report)",
+      "chapter": "Chapter XIV — Information to the Police and their Powers to Investigate",
+      "text": "Every information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing by him or under his direction and be read over to the informant; and every such information, whether given in writing or reduced to writing as aforesaid, shall be signed by the person giving it, and the substance thereof shall be entered in a book to be kept by such officer. This recorded information is commonly known as the First Information Report (FIR)."
+    },
+    {
+      "ref": "Section 161",
+      "title": "Examination of witnesses by police",
+      "chapter": "Chapter XIV — Information to the Police and their Powers to Investigate",
+      "text": "Any police officer making an investigation may examine orally any person supposed to be acquainted with the facts and circumstances of the case, and such person shall be bound to answer all questions relating to the case other than questions the answers to which would have a tendency to expose him to a criminal charge or to a penalty or forfeiture."
+    },
+    {
+      "ref": "Section 164",
+      "title": "Power to record statements and confessions",
+      "chapter": "Chapter XIV — Information to the Police and their Powers to Investigate",
+      "text": "Any Magistrate may record any statement or confession made to him in the course of an investigation or at any time afterwards before the commencement of the inquiry or trial. Before recording a confession the Magistrate must explain to the person that he is not bound to make it and that it may be used as evidence against him, and shall record it only if satisfied that it is being made voluntarily."
+    },
+    {
+      "ref": "Section 173",
+      "title": "Report of police officer on completion of investigation",
+      "chapter": "Chapter XIV — Information to the Police and their Powers to Investigate",
+      "text": "Every investigation shall be completed without unnecessary delay, and as soon as it is completed the officer in charge of the police station shall forward to a Magistrate empowered to take cognizance of the offence a report, in the prescribed form, setting forth the names of the parties, the nature of the information, and the names of the persons who appear to be acquainted with the circumstances of the case, stating whether the accused has been forwarded in custody or released on bond. This report is commonly known as the challan."
+    },
+    {
+      "ref": "Section 200",
+      "title": "Examination of complainant",
+      "chapter": "Chapter XVI — Of Complaints to Magistrates",
+      "text": "A Magistrate taking cognizance of an offence on complaint shall at once examine the complainant and the witnesses present, if any, upon oath, and the substance of the examination shall be reduced to writing and shall be signed by the complainant and the witnesses, and also by the Magistrate."
+    },
+    {
+      "ref": "Section 249-A",
+      "title": "Power of Magistrate to acquit accused at any stage",
+      "chapter": "Chapter XX — Of the Trial of Cases by Magistrates",
+      "text": "Nothing in this Chapter shall be deemed to prevent a Magistrate from acquitting an accused at any stage of the case if, after hearing the prosecutor and the accused and for reasons to be recorded, he considers that the charge is groundless or that there is no probability of the accused being convicted of any offence."
+    },
+    {
+      "ref": "Section 497",
+      "title": "When bail may be taken in case of non-bailable offence",
+      "chapter": "Chapter XXXIX — Of Bail",
+      "text": "When any person accused of any non-bailable offence is arrested or detained, he may be released on bail, but he shall not be so released if there appear reasonable grounds for believing that he has been guilty of an offence punishable with death or imprisonment for life. The court may nevertheless direct release on bail of a person under the age of sixteen years, a woman, or a sick or infirm person. Where, after the conclusion of the trial and before judgment, the court is of the opinion that there are reasonable grounds for believing that the accused is not guilty, it shall release the accused on bail."
+    },
+    {
+      "ref": "Section 498",
+      "title": "Power to direct admission to bail or reduction of bail",
+      "chapter": "Chapter XXXIX — Of Bail",
+      "text": "The amount of every bond shall be fixed with due regard to the circumstances of the case and shall not be excessive; and the High Court or Court of Session may, in any case, direct that any person be admitted to bail, or that the bail required by a police officer or Magistrate be reduced. This provision is invoked for pre-arrest (anticipatory) bail."
+    },
+    {
+      "ref": "Section 561-A",
+      "title": "Saving of inherent power of High Court",
+      "chapter": "Chapter XLVI — Miscellaneous",
+      "text": "Nothing in this Code shall be deemed to limit or affect the inherent power of the High Court to make such orders as may be necessary to give effect to any order under this Code, or to prevent abuse of the process of any court, or otherwise to secure the ends of justice."
+    }
+  ]
+}

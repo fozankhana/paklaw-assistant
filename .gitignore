@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Environment
+.env
+.env.local
+
+# Build output
+dist/
+build/
+client/dist/
+
+# Caches
+.cache/
+server/.cache/
+.vite/
+
+# Local model files (large binary — place your .gguf here and set LLAMA_MODEL_PATH)
+server/models/*.gguf
+server/models/*.bin
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Claude Code project settings
+.claude/
