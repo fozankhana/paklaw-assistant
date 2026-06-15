@@ -263,4 +263,20 @@ The project was delivered over a focused three-month cycle.
 
 ## License
 
-Released under the **MIT License**. The legal texts referenced are public law of the Islamic Republic of Pakistan.
+Released under the **GNU Affero General Public License v3.0 (AGPL-3.0)** — see the [LICENSE](LICENSE) file for the full text.
+
+The AGPL-3.0 is a strong copyleft license: you are free to use, study, modify and redistribute this software, but any modified version you run as a network service must make its complete corresponding source code available to its users under the same license.
+
+```
+Copyright (c) 2025 Fozan Khana
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU Affero General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your option) any
+later version. This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
+or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License
+for more details.
+```
+
+The legal texts referenced are public law of the Islamic Republic of Pakistan.
